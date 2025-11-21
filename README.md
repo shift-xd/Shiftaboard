@@ -1,7 +1,8 @@
 # HackaBoard
-#### Macro Keyboard From hackclub ?
+#### Macro Keyboard for Hackclub :) 
+ Inspired from Youtube (lol) i wanted it for tooo long...
 
-### Hackaboard uses XIAO rp2040 as Core to guide the input from switches to the PC via TYPE - C connection 
+### Hackaboard uses XIAO RP-2040 as Core to guide the input from switches to the PC via TYPE - C connection 
 
 ## Image Render of Hackaboard with Electronics 
 <img width="464" height="350" alt="best-render" src="https://github.com/user-attachments/assets/8bb8cf24-b445-4232-bef6-e2ae82636af7" />
