@@ -1,6 +1,6 @@
 # HackaBoard
 #### Macro Keyboard for Hackclub :) 
- Inspired from Youtube (lol) i wanted it for tooo long...
+ Inspired from Youtube (lol) i wanted it for tooo long....
 
 ### Hackaboard uses XIAO RP-2040 as Core to guide the input from switches to the PC via TYPE - C connection 
 
